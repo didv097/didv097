@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/computerrage_40x40.gif" alt="computer rage" />
 
 <!--
 **didv097/didv097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
