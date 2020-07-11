@@ -1,6 +1,7 @@
-
-<img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/computerrage_40x40.gif" width="80" height="80" alt="computer rage" />
-<img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/computerrage_40x40.gif" width="80" height="80" style="transform: scaleX(-1)" alt="computer rage" />
+<div style="display: flex;">
+  <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/computerrage_40x40.gif" width="80" height="80" alt="computer rage" />
+  <img src="https://az705183.vo.msecnd.net/onlinesupportmedia/onlinesupport/media/skype/fa300xx/computerrage_40x40.gif" width="80" height="80" style="transform: scaleX(-1);" alt="computer rage" />
+</div>
 
 <!--
 **didv097/didv097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
