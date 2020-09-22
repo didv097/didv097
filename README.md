@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=didv097&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=ffffff" height="160px" alt="GitHub Stats"/>
 </a>
 
-## My projects
+## &#x1f4c1; My projects
 
 <a href="https://github.com/didv097/Query-Generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=Query-Generator&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=ffffff" />
