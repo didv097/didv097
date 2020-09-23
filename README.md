@@ -1,4 +1,4 @@
-# Welcome, friend! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome, friend! <img src="https://raw.githubusercontent.com/didv097/didv097/master/wave.gif" width="30px">
 ![Visitor Count](https://profile-counter.glitch.me/didv097/count.svg) 
 <span style="font-size: 32px;">people reached</span>
 
