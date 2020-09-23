@@ -7,7 +7,7 @@
 Have a look at my [Github profile summary](https://profile-summary-for-github.com/user/didv097)
 
 <a href="https://github.com/didv097" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=didv097&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" height="160px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=didv097&langs_count=6&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" height="160px"/>
 </a>
 
 <a href="https://github.com/didv097" >
