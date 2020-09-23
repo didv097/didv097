@@ -11,7 +11,7 @@ Have a look at my [Github profile summary](https://profile-summary-for-github.co
 </a>
 
 <a href="https://github.com/didv097" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=didv097&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7&hide=issues,contribs" height="160px" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=didv097&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7&hide=contribs" height="160px" alt="GitHub Stats"/>
 </a>
 
 ## &#x1f4c1; My projects
