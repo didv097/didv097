@@ -16,9 +16,6 @@ Have a look at my [Github profile summary](https://profile-summary-for-github.co
 
 ## &#x1f4c1; My projects
 
-<a href="https://github.com/didv097/Query-Generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=Query-Generator&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" />
-</a>
 <a href="https://github.com/didv097/webapp.rs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=webapp.rs&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" />
 </a>
@@ -30,6 +27,9 @@ Have a look at my [Github profile summary](https://profile-summary-for-github.co
 </a>
 <a href="https://github.com/didv097/LDT-IES">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=LDT-IES&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" />
+</a>
+<a href="https://github.com/didv097/Query-Generator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=Query-Generator&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" />
 </a>
 <a href="https://github.com/didv097/arch-text-svg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=didv097&repo=arch-text-svg&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=f7f7f7" />
